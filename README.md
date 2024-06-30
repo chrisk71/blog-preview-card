@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot-Frontend Mentor-Blog preview card.png)
+![](Screenshot-Frontend Mentor-Blog preview card.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-UByHNZru-k)
+- Live Site URL: [Add live site URL here](https://blogpreviewcard-fm-challenge.netlify.app/)
 
 ### Built with
 
