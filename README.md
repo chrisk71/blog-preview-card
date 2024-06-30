@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-UByHNZru-k)
-- Live Site URL: [Add live site URL here](https://blogpreviewcard-fm-challenge.netlify.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/blog-preview-card-UByHNZru-k)
+- Live Site URL: (https://blogpreviewcard-fm-challenge.netlify.app/)
 
 ### Built with
 
